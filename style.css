@@ -1,0 +1,21 @@
+.cabecalho{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+.cabecalho-imagem{
+    width: 20%; 
+    border-radius: 30px;
+}
+.cabecalho-titulo{
+    padding: 30px 0;
+    font-size: 44px;
+    
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    padding: 0 24px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
