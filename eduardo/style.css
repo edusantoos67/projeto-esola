@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(#ffffff,#ffffff);
+    
+
+}
+
+.cabeçalho {
+    color:rgb(0, 0, 0);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #db0000;
+    font-size: 15px;
+    padding: 25px 0;    
+     
+}
+
+.cabeçalho-imagem {
+    width:15%;
+    border-radius: 10px;
+
+}
+
+.cabeçalho-item1 {
+    display: inline-block;
+    justify-content: space-around;
+    margin:0 16px;
+    font-size: 24px;
+}
+.rodape{
+    background-color: #db0000;
+}
